@@ -10,4 +10,5 @@ public class MemberController {
 	public void method3() {
 		
 	}
+	
 }
